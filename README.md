@@ -1,4 +1,4 @@
-Start Here [![Join the chat at https://gitter.im/dwyl/chat](https://....svg)](https://...)  
+Start Here
 ==========
 
 A Quick-start Guide to get involved in Zubi Open-sourxe program.
