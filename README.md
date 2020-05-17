@@ -1,5 +1,6 @@
 ## 📖 Start Here 
-<script async defer src="https://slack.yourdomain.com/slackin.js"></script>
+
+[![Slack Status](https://slack.yourdomain.com/badge.svg)](https://yourdomain.com)
 
 A Quick-start Guide to get involved in Zubi Open-source program.
 
