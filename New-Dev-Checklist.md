@@ -69,9 +69,9 @@ get *positive reenforcement* (*i.e. they will make more content*),
 (c) if you consistently re-tweet useful content you will become known
 for relevance in that area and more people will follow/re-tweet you!
 
-[![dan_abramov_retweeted](https://cloud.githubusercontent.com/assets/194400/12523324/0ee0ac2c-c14e-11e5-9e6c-de4717fa474c.png)](https://twitter.com/dwylhq/status/687703493264732160)
+[![Allen Joseph_retweeted](https://raw.githubusercontent.com/AllenAJ/ZUBI-Data-dump/master/zubi.tweet.png)](https://twitter.com/zubi_io/status/1235230578234011648)
 
-> https://twitter.com/dwylhq/status/687703493264732160
+> https://twitter.com/zubi_io/status/1235230578234011648
 
 <br />
 
