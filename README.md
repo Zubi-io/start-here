@@ -1,6 +1,5 @@
-## 📖 Start Here <script async defer src="https://slack.yourdomain.com/slackin.js"></script>
-
-
+## 📖 Start Here 
+<script async defer src="https://slack.yourdomain.com/slackin.js"></script>
 
 A Quick-start Guide to get involved in Zubi Open-source program.
 
