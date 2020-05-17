@@ -1,6 +1,6 @@
 ## 📖 Start Here 
 
-[![Slack Status](https://slack.yourdomain.com/badge.svg)](https://yourdomain.com)
+[![Slack Status](https://img.shields.io/badge/slack-3/8-pink.svg)](https://yourdomain.com)
 
 A Quick-start Guide to get involved in Zubi Open-source program.
 
