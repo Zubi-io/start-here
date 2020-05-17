@@ -37,7 +37,7 @@ Please drop by and tell us what you think! [![Slack Status](https://img.shields.
 
 If you want to start writing `code` _now_ and don't already have your machine set up, see: https://github.com/Zubi-io/start-here/blob/master/dev-setup.md
 
-We also have a [***new developer checklist***](https://github.com/dwyl/start-here/blob/master/new-developer-checklist.md) which  we _encourage_ you to review on the various online services you should know about and set yourself up on:  
+We also have a [***new developer checklist***](https://github.com/Zubi-io/start-here/blob/master/New-Dev-Checklist.md) which  we _encourage_ you to review on the various online services you should know about and set yourself up on:  
 https://github.com/Zubi-io/start-here/blob/master/New-Dev-Checklist.md
 
 ## Web Development *Fun*damentals
@@ -254,7 +254,7 @@ You know enough Git and GitHub to make a pull request on an open source project.
 
 #### Where to Start on Open Source
 
-+ dwyl: https://github.com/dwyl
++ Zubi: https://github.com/Zubi-io
 + First Timers Only: https://www.firsttimersonly.com/
 + 24 Pull Requests: https://24pullrequests.com/
 + Your First PR: https://yourfirstpr.github.io/
@@ -293,4 +293,4 @@ If you want to help improve any aspect of the code, **star :star: this repo on G
 ## Curious about what technology we are using?
 
 If you want to know more about the **Technology** "_**Stack**_" we are using  
-see: https://github.com/dwyl/technology-stack
+see: https://github.com/
