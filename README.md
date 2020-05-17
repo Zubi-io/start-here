@@ -31,14 +31,14 @@ That's it.
 No. _Everyone_ can contribute, from proposing and voting on ideas,
 to simplifying wording to helping people understand our apps.    
 
-Please drop by and tell us what you think! [![Join the chat at https://gitter.im/dwyl/chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dwyl/chat/)
+Please drop by and tell us what you think! [![Slack Status](https://img.shields.io/badge/slack-3/8-pink.svg)](https://yourdomain.com)
 
 ### Setup (_for Coders_)
 
-If you want to start writing `code` _now_ and don't already have your machine set up, see: https://github.com/dwyl/dev-setup
+If you want to start writing `code` _now_ and don't already have your machine set up, see: https://github.com/Zubi-io/start-here/blob/master/dev-setup.md
 
 We also have a [***new developer checklist***](https://github.com/dwyl/start-here/blob/master/new-developer-checklist.md) which  we _encourage_ you to review on the various online services you should know about and set yourself up on:  
-https://github.com/dwyl/start-here/blob/master/new-developer-checklist.md
+https://github.com/Zubi-io/start-here/blob/master/New-Dev-Checklist.md
 
 ## Web Development *Fun*damentals
 
