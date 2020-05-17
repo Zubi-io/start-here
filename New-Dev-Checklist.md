@@ -121,11 +121,6 @@ authors to _continue_ in their quest!
 The easiest way to contribute to a project/repository is to read through
 the documentation (`README.md`) and if you _spot an improvement_, _**create an issue**_!
 
-
-### Set Up SSH Keys for GitHub
-
-ssh-keygen -t rsa -C "edwardcodes@gmail.com"
-
 #### New to Command Line?
 
 Do not be intimidated by the command line.
@@ -195,7 +190,7 @@ Again, use your gmail to register/sign-in
 
 ## JQuery
 
-While we don't tend to use JQuery for *new* projects @dwyl
+While we don't tend to use JQuery for *new* projects @zubi-io
 (see: http://youmightnotneedjquery.com ),
 JQuery is still used on 65% of websites, so if you ever have
 to work on an _existing_ project, you will almost _inevitably_
