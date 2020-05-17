@@ -21,7 +21,7 @@ A Quick-start Guide to get involved in Zubi Open-source program.
 + [ ] **Self-reliance**: when you get stuck on a task, knowing **when to ask for help** and when to _persevere_ through to find the answer yourself
   + But don't worry, we're here to help! [![Slack Status](https://img.shields.io/badge/slack-3/8-pink.svg)](https://yourdomain.com)
   
-  ### What *tools* will I need?
+ ### What *tools* will I need?
 
 **Access to a computer**, preferably a recent (but not expensive) one (Chromebooks are Great!).  
 That's it.
