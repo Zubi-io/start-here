@@ -14,10 +14,10 @@ When we were teaching ourselves how to code it took us some time, talking to mor
 We wanted there to be a single place where new developers could go to find these quickly so they can **get past the setup and down to the business of coding**.
 
 
-_Note: @dwyl we use [a specific technology stack](https://github.com/dwyl/technology-stack).  
+_Note: @zubi we use [a specific technology stack](https://github.com/dwyl/technology-stack).  
 **Installing** software [is optional](https://github.com/dwyl/dev-setup/issues/3),
 but it does make you more effective so we highly recommend it.  
-This repo includes some recommendations of things we favour and use @dwyl._
+This repo includes some recommendations of things we favour and use @zubi
 
 ## Checklist
 
@@ -36,7 +36,7 @@ This repo includes some recommendations of things we favour and use @dwyl._
   + [ ] Learn to use Git particularly [on the command line](git-in-the-terminal)
 + [ ] Make sure you're comfortable with your [terminal setup](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1)
 
-**Next steps?** If you want to [contribute to dwyl projects](https://github.com/dwyl/contributing), get comfortable with [our stack](https://github.com/dwyl/technology-stack) and **open issues whenever you have questions**!
+**Next steps?** If you want to [contribute to zubi projects](https://github.com/dwyl/contributing), get comfortable with [our stack](https://github.com/dwyl/technology-stack) and **open issues whenever you have questions**!
 
 ## Git and GitHub
 We use Git and [Github](https://en.wikipedia.org/wiki/GitHub) exclusively for our version control and to share our work with the world.   
@@ -46,9 +46,9 @@ Understanding the [difference between the two](https://www.codefellows.org/blog/
 + Sign up for a [Github account](https://github.com/join)
 + **[Set up Git](https://help.github.com/articles/set-up-git/) on your computer**
   + We recommend you [**authenticate with SSH**](https://help.github.com/articles/set-up-git/#connecting-over-ssh) as this is more secure and means you _won't have to type in your password every time you push to GitHub_
-  + _Note:_ This also means that when you _clone_ a repo, you'll need to use the **SSH clone URL** (thanks [@tsop14](https://github.com/tsop14) for the screenshot!)
+  + _Note:_ This also means that when you _clone_ a repo, you'll need to use the **SSH clone URL** .
 
-  ![change-to-ssh](https://user-images.githubusercontent.com/21698271/45860770-00daf280-bd37-11e8-92f8-34bb1ddf8152.png)
+  ![change-to-ssh](https://raw.githubusercontent.com/AllenAJ/ZUBI-Data-dump/master/zubi.github.png)
 
 ### Learn how to use Git + GitHub
 + There are many resources online, [here are a few we like](https://github.com/dwyl/start-here#git--github)
@@ -62,7 +62,9 @@ Understanding the [difference between the two](https://www.codefellows.org/blog/
 
 ## Text Editor
 It's entirely up to you which text editor you use, but you will inevitably need one.    
-At the time of writing, at _dwyl_ we use [Atom editor](https://atom.io/) (open source, NodeJS based editor) though we work with a lot of people who use [Sublime Text](http://www.sublimetext.com/) (and have used this ourselves in the past).
+A few common editors are 
+[Atom editor](https://atom.io/) (open source, NodeJS based editor).
+[Sublime Text](http://www.sublimetext.com/) (and have used this ourselves in the past).
 
 ### Basic text editor setup
 + ** Set up [_soft tabs_](https://opensourcehacker.com/2012/05/13/never-use-hard-tabs/)** (indentation)
