@@ -1,6 +1,6 @@
 ## 📖 Start Here 
 
-[![Slack Status](https://img.shields.io/badge/slack-3/8-pink.svg)](https://yourdomain.com)
+Join our #open-source channel on slack! [![Slack Status](https://img.shields.io/badge/slack-3/8-pink.svg)](https://yourdomain.com)
 
 A Quick-start Guide to get involved in Zubi Open-source program.
 
