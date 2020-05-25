@@ -1,7 +1,5 @@
 ## 📖 Start Here 
 
-[![Slack Status](https://img.shields.io/badge/slack-3/8-pink.svg)](https://yourdomain.com) Join our #open-source channel on slack! 
-
 A Quick-start Guide to get involved in Zubi Open-source program.
 
 ![zubi-logo-wide](https://raw.githubusercontent.com/AllenAJ/ZUBI-Data-dump/master/zubi.io.black.png)
@@ -19,7 +17,7 @@ A Quick-start Guide to get involved in Zubi Open-source program.
 + [ ] **Time** - if you only have _**1 minute**_ there's _something_ you can do _now_!
 + [ ] **Great Google Skills** - the ability to formulate a good question (so you can get a useful answer from Google) is (more than) half the challenge in any ~~coding~~ task
 + [ ] **Self-reliance**: when you get stuck on a task, knowing **when to ask for help** and when to _persevere_ through to find the answer yourself
-  + But don't worry, we're here to help! [![Slack Status](https://img.shields.io/badge/slack-3/8-pink.svg)](https://yourdomain.com)
+  + But don't worry, we're here to help!
   
  ### What *tools* will I need?
 
