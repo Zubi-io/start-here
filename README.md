@@ -27,9 +27,7 @@ That's it.
 ### Do I need to Write *Code* to Contribute?
 
 No. _Everyone_ can contribute, from proposing and voting on ideas,
-to simplifying wording to helping people understand our apps.    
-
-Please drop by and tell us what you think! [![Slack Status](https://img.shields.io/badge/slack-3/8-pink.svg)](https://yourdomain.com)
+to simplifying wording to helping people understand our apps.
 
 ### Setup (_for Coders_)
 
